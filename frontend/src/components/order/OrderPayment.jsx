@@ -28,7 +28,7 @@ const OrderPayment = () => {
             * Will add other payment methods in the future
           </small>
 
-          {/* <div className="d-flex">
+          <div className="d-flex">
             <Button
               variant="outline-primary"
               size="sm"
@@ -37,7 +37,7 @@ const OrderPayment = () => {
             >
               Edit
             </Button>
-          </div> */}
+          </div>
         </div>
       ) : (
         <Form onSubmit={submitHandler}>

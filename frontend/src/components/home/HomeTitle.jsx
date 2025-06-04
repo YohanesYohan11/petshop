@@ -5,7 +5,7 @@ const HomeTitle = ({ title }) => {
     <Row>
       <div className="home-title">
         {title}
-        <div className="title-line"></div>
+        <div className="title-line">yupar</div>
       </div>
     </Row>
   );

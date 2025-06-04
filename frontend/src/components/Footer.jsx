@@ -22,18 +22,18 @@ const Footer = () => {
         <Row>
           <Col xs={6} md={3}>
             <img src={logo} alt="Petizen logo" width={100} />
-            <p className="mt-3 fw-bold">MERN Project</p>
+            <p className="mt-3 fw-bold">Project</p>
           </Col>
           <Col xs={6} md={3} className="mb-5">
             <h5>Contact Me</h5>
-            <p>Ember Chen</p>
+            <p>Yudha Parera</p>
             <p>
               Portfolio Site:
               <br />
-              <a href="https://ember-chen.site">ember-chen.site</a>
+              <a href="https://yupar.site">Yupar</a>
             </p>
             <p>
-              GitHub: <a href="https://github.com/cchen-00">cchen-00</a>
+              GitHu: <a href="https://github.com/YohanesYohan11">Yupar@</a>
             </p>
           </Col>
           <Col xs={6} md={3} className="mb-5">
@@ -80,7 +80,7 @@ const Footer = () => {
           <hr />
           <p className="fw-bold mt-3">
             Designed and Developed by{" "}
-            <a href="https://ember-chen.site">Ember Chen</a>
+            <a href="https://ember-chen.site">Yupar</a>
           </p>
           <p>Copyright © {currentYear} All rights reserved.</p>
         </Row>
